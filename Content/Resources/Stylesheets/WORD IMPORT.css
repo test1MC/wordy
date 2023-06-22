@@ -1,0 +1,65 @@
+/*<meta />*/
+
+/*<meta sourceDocument="C:\Users\cecheverria\Desktop\WORD IMPORT.docx" />*/
+
+p
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ol
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ul
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+li
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+td
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+p.ListParagraph
+{
+	margin-bottom: 8pt;
+	font-size: 11pt;
+	font-family: Calibri;
+}
+
+li.ListParagraph
+{
+	margin-bottom: 8pt;
+	font-size: 11pt;
+	font-family: Calibri;
+}
+
+ol.ol_1
+{
+	padding-left: 0px;
+	list-style-type: decimal;
+	margin-left: 36pt;
+}
+
